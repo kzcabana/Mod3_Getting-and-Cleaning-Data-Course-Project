@@ -1,5 +1,6 @@
 # Getting and Cleaning Data - Course Project
 Maria Kathrina Z. Cabana
+
 23 January 2017
 
 ## Overview
